@@ -26,4 +26,5 @@ def vote_age():
 
 # binary search
 
-boolean()
+# boolean()
+vote_age()
